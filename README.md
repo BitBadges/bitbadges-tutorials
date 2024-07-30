@@ -21,7 +21,7 @@ We welcome contributions! If you have a tutorial to share, follow these steps:
     git checkout -b your-tutorial-branch
     ```
 3. **Write your tutorial**: Add your tutorial to the `tutorials` directory in Markdown (.md) format, following the [template](#template) below.
-4. **Submit a pull request**: Submit a pull request with a brief description of your tutorial.
+4. **Submit a pull request**: Submit a pull request with a brief description of your tutorial. Let us know if ypou want us to add it to the BitBadges site or not. If so, please provide a name, image, and description that you want.
 
 ### Template
 
